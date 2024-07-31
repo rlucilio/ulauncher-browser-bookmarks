@@ -18,6 +18,7 @@ browser_imgs = {
     'google-chrome': 'images/chrome.png',
     'chromium': 'images/chromium.png',
     'Brave-Browser': 'images/brave.png',
+    'microsoft-edge': 'images/brave.png',
 }
 
 
